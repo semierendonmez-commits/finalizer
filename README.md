@@ -3,7 +3,7 @@
 master bus processor. EQ + compressor + limiter on every script's output.
 
 ```
-;install https://github.com/yourusername/finalizer
+;install https://github.com/semierendonmez-commits/finalizer
 ```
 
 after install: SYSTEM > RESTART (SC engine class needs compilation)
